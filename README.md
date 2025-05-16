@@ -25,16 +25,15 @@
 
 - Pythonを用いたAI学習
 - Rを用いた統計分析
+
 ---
 
 ## 🛠️ スキル・使用環境
 
-| 分類       | 内容                                                                            |
-|------------|----------------------------------------                                        |
-| 言語       |   Python   /   Ruby   /   JavaScript   /   HTML   /   CSS   /   R                                    |
-| データベース |   SQLite   /   MySQL                                                                |
-| 環境・ツール |   VSCode   /   GitHub   /   WSL   /   Ubuntu   /   Figma   /   Miro                     |
-| 保有資格    | 基本情報技術者                                                                    |
+- **言語**: Python / Ruby / JavaScript / HTML / CSS / R  
+- **データベース**: SQLite / MySQL  
+- **環境・ツール**: VSCode / GitHub / WSL / Ubuntu / Figma / Canva
+- **保有資格**: 基本情報技術者
 
 ---
 
@@ -69,10 +68,11 @@
 
 ## 🔗 SNS・連絡先
 
-| サービス | アカウント                     |
-|----------|---------------------------------------------------------------------------------------------------------|
-| GitHub   | [github.com/pamo0827](https://github.com/pamo0827) |
-| X (旧Twitter) | [@shiro3504](https://twitter.com/shiro3504) |
-| Gmail | yoshi0827101328@gmail.com |
+- GitHub
+  [github.com/pamo0827](https://github.com/pamo0827) |
+- X (旧Twitter)
+  [@shiro3504](https://twitter.com/shiro3504) |
+- Gmail
+  yoshi0827101328@gmail.com |
 
 ---
