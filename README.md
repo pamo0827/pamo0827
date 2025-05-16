@@ -31,9 +31,9 @@
 
 | 分類       | 内容                                                                            |
 |------------|----------------------------------------                                        |
-| 言語       | Python / Ruby / JavaScript / HTML / CSS / R                                    |
-| データベース | SQLite / MySQL                                                                |
-| 環境・ツール | VSCode / Git / GitHub / WSL / Ubuntu                                          |
+| 言語       |   Python   /   Ruby   /   JavaScript   /   HTML   /   CSS   /   R                                    |
+| データベース |   SQLite   /   MySQL                                                                |
+| 環境・ツール |   VSCode   /   GitHub   /   WSL   /   Ubuntu   /   Figma   /   Miro                     |
 | 保有資格    | 基本情報技術者                                                                    |
 
 ---
