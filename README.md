@@ -70,10 +70,10 @@
 ## 🔗 SNS・連絡先
 
 - GitHub
-  [github.com/pamo0827](https://github.com/pamo0827) |
+  [github.com/pamo0827](https://github.com/pamo0827) 
 - X (旧Twitter)
-  [@shiro3504](https://twitter.com/shiro3504) |
+  [@shiro3504](https://twitter.com/shiro3504) 
 - Gmail
-  yoshi0827101328@gmail.com |
+  yoshi0827101328@gmail.com 
 
 ---
