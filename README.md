@@ -5,8 +5,7 @@
 - 千葉県立東葛飾高校９５期生
 - 筑波大学情報メディア創成学類３年生
 
-プログラミングが大好き！！！
-エンジニア目指して日々努力！！！
+プログラミングが大好き！！
 
 ---
 
@@ -71,8 +70,6 @@
 
 - GitHub
   [github.com/pamo0827](https://github.com/pamo0827) 
-- X (旧Twitter)
-  [@shiro3504](https://twitter.com/shiro3504) 
 - Gmail
   yoshi0827101328@gmail.com 
 
