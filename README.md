@@ -9,7 +9,7 @@
 
 ---
 
-## 💻 プロジェクト (Projects)
+## 💻 プロジェクト
 
 ### 🏆 AIdentity (AI人狼ゲーム) - チーム開発/ハッカソン
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity"> <img src="https://img.shields.io/badge/Gemini_API-8E7BFF?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini API">
@@ -71,7 +71,7 @@ GCI Summer 2025プログラムにて、タイタニック号の乗客データ�
 
 ---
 
-## 🌱 私が探求していること (My Focus Areas)
+## 🌱 私が探求していること
 
 ### ① セキュアなフロントエンド開発
 ユーザーに最も近いフロントエンドだからこそ、その裏側にあるセキュリティを深く理解し、設計段階からセキュリティを織り込む「セキュリティ・バイ・デザイン」を実践します。
@@ -94,7 +94,7 @@ GCI Summer 2025プログラムにて、タイタニック号の乗客データ�
 
 ---
 
-## 🛠️ スキル・使用環境 (Skills & Environment)
+## 🛠️ スキル・使用環境
 
 * **言語**: Python (最も得意), Ruby, JavaScript, HTML/CSS, C#, R
 * **データベース**: MySQL, SQLite
@@ -103,7 +103,7 @@ GCI Summer 2025プログラムにて、タイタニック号の乗客データ�
 
 ---
 
-## 🚀 今後の目標 (Future Goals)
+## 🚀 今後の目標
 
 * ✅ 長期インターンでの実務経験を積む
 * ✅ AtCoder 緑レベル突破　　
@@ -111,7 +111,7 @@ GCI Summer 2025プログラムにて、タイタニック号の乗客データ�
 
 ---
 
-## 🧢 興味・趣味 (Interests & Hobbies)
+## 🧢 興味・趣味
 
 * **事業領域**: Web系事業会社, SIer・ソフト開発, NIer・インフラ
 * **趣味**:
