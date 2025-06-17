@@ -14,7 +14,7 @@
 ### 🏆 AIdentity (AI人狼ゲーム) - チーム開発/ハッカソン
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity"> <img src="https://img.shields.io/badge/Gemini_API-8E7BFF?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini API">
 
-会話の中に潜むAIプレイヤーを、人間が見つけ出すオンラインマルチ推理ゲーム。**技育プロジェクトのハッカソンにて「努力賞」を受賞**しました (21チーム中3位相当)。
+会話の中に潜むAIプレイヤーを、人間が見つけ出すオンラインマルチ推理ゲーム。**技育プロジェクトのハッカソンにて「努力賞」を受賞**しました。
 
 * **概要**:
     * Gemini APIを活用し、AIに個性的なペルソナ（性格・会話スタイル）を付与。
