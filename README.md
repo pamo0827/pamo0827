@@ -74,7 +74,7 @@ GCI Summer 2025プログラムにて、タイタニック号の乗客データ�
 <align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" height="50"/>
 <align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="50"/>
 <align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="50"/>
-<align="center"><img src="https://golang.org/lib/godoc/images/go-logo-blue.svg" height="50"/>
+<align="center"><img src="https://golang.org/doc/gopher/frontpage.png" height="50"/>
 <align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="50"/>
 <align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="50"/>
 <align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="50"/>
@@ -89,7 +89,7 @@ GCI Summer 2025プログラムにて、タイタニック号の乗客データ�
 <align="center"><img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" height="50"/>
 <align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" height="50"/>
 <align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="50"/>
-<align="center"><img src="https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg" height="50"/>
+<align="center"><img src="	https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg" height="50"/>
 </p>
 
 ### 開発環境・ツール
