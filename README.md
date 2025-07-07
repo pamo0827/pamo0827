@@ -28,8 +28,7 @@
     * Gemini APIを活用し、AIに個性的なペルソナ（性格・会話スタイル）を付与。
     * Photon Unity Networking (PUN) を利用したリアルタイム通信対戦機能を実装。
 * **役割**:
-    * 主にフロントエンド開発を担当。
-    * 開発初期にアイデアが拡散した際、Notionで情報を整理し「AIの人間らしい応答」というコア価値にフォーカスする共通認識を形成。タスクを細分化・分配し効率的な開発を進め、当日は代表として発表も担当。
+    * フロントエンド開発、発表当日のプレゼンテーションを担当。
 
 ### 🎵 SMIPE (音楽共有SNS) - グループ開発
 <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"> <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="OpenStreetMap">
