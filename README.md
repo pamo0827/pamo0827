@@ -65,9 +65,9 @@ GCI Summer 2025プログラムにて、タイタニック号の乗客データ�
     * **モデル構築**: 決定木モデルを構築し、精度や再現率を用いて評価。
     * **予測**: 未知のテストデータに対する生存/死亡予測。
 
-## 💻 使用環境
+## 使用環境
 
-### 📝 言語
+### 言語
 
 <p align="left">
 <align="center"><img src="https://www.python.org/static/community_logos/python-logo.png" height="50"/>
@@ -83,7 +83,7 @@ GCI Summer 2025プログラムにて、タイタニック号の乗客データ�
 <align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" height="50"/>
 </p>
 
-### 🗄️ データベース
+### データベース
 
 <p align="left">
 <align="center"><img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" height="50"/>
@@ -92,7 +92,7 @@ GCI Summer 2025プログラムにて、タイタニック号の乗客データ�
 <align="center"><img src="https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg" height="50"/>
 </p>
 
-### 🛠️ 開発環境・ツール
+### 開発環境・ツール
 
 <p align="left">
 <align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="50"/>
