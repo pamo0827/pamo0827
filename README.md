@@ -45,18 +45,6 @@
     * 時給設定と月収見込みの自動計算
     * iCal (.ics) / PDF形式でのエクスポート
 
-### 🍳 Cookie (レシピ管理アプリ) - 個人開発
-**[GitHubリポジトリ](https://github.com/pamo0827/recipe-memo-app) | [デプロイ先](https://vercel.com/yoshi0827101328-9306s-projects/recipe-database-cookie-app)**
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-
-料理レシピを登録・管理・検索できるメモアプリケーション。費用やURL、味の感想などの多様な情報を記録し、目的のレシピをすぐに見つけられます。
-
-* **主な実装機能**:
-    * **DB**: MySQLを用いたリレーショナルデータベース設計とCRUD操作。
-    * **検索機能**: SQLクエリによる複数条件での柔軟な検索・フィルタリング。
-    * **UI**: レスポンシブなフォームUIを構築。
-
 ### 🤖 機械学習モデル - 個人開発
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
 
