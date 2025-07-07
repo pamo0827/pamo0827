@@ -125,7 +125,10 @@ GCI Summer 2025プログラムにて、タイタニック号の乗客データ�
 
 ## 連絡先・アカウント
 
-* **Gmail**: yoshi0827101328@gmail.com
-* **Twitter**: https://x.com/shiro3504
-* **AtCoder**: https://atcoder.jp/users/pamo0827
+* **Gmail**
+  yoshi0827101328@gmail.com
+* **Twitter**
+  https://x.com/shiro3504
+* **AtCoder**
+  https://atcoder.jp/users/pamo0827
 
