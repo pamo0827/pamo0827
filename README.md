@@ -72,7 +72,7 @@ GCI Summer 2025プログラムにて、タイタニック号の乗客データ�
 |  |  |  |  |  |
 | <img src="https://www.python.org/static/community_logos/python-logo.png" width="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50"/> | <img src="https://golang.org/lib/godoc/images/go-logo-blue.svg" width="50"/> |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="50"/> |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="50"/> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="50"/> |  |  |  |  |
 
 ### 🗄️ データベース
 
