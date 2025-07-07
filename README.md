@@ -33,7 +33,7 @@
 ### 🎵 SMIPE (音楽共有SNS) - グループ開発
 <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"> <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="OpenStreetMap">
 
-位置情報を活用した音楽共有プラットフォーム。近くにいる他のユーザーのプレイリストを発見・視聴できます。
+位置情報を活用した音楽共有プラットフォーム。近くにいる他のユーザーのプレイリストを発見・視聴できる。
 
 * **主な実装機能**:
     * **認証**: RailsにOAuth 2.0認証 (Spotify連携) を実装。
@@ -46,7 +46,7 @@
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 
-アルバイト・スタッフ向けの勤務希望シフト提出Webアプリケーション。カレンダーUIで直感的に操作でき、PDFやiCal形式でのエクスポートも可能です。
+アルバイト・スタッフ向けの勤務希望シフト提出Webアプリケーション。カレンダーUIで直感的に操作でき、PDFやiCal形式でのエクスポートも可能。
 
 * **主な機能**:
     * カレンダーUIでのシフト登録・編集・削除
