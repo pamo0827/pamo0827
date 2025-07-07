@@ -89,7 +89,7 @@ GCI Summer 2025プログラムにて、タイタニック号の乗客データ�
 <align="center"><img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" height="50"/>
 <align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" height="50"/>
 <align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="50"/>
-<align="center"><img src="	https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg" height="50"/>
+<align="center"><img src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg" height="50"/>
 </p>
 
 ### 開発環境・ツール
