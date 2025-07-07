@@ -30,7 +30,7 @@
 * **役割**
     * フロントエンド開発、発表当日のプレゼンテーションを担当。
 
-### 🎵 SMIPE (音楽共有SNS) - グループ開発
+### 🎵 SMIPE (音楽共有SNS) - グループ開発【開発中】
 <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"> <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="OpenStreetMap">
 
 位置情報を活用した音楽共有プラットフォーム。近くにいる他のユーザーのプレイリストを発見・視聴できる。
