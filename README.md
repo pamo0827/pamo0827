@@ -69,6 +69,7 @@ GCI Summer 2025プログラムにて、タイタニック号の乗客データ�
 
 ### 📝 言語
 
+<p align="center">
 <p align="center"><img src="https://www.python.org/static/community_logos/python-logo.png" width="50"/></p>
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="50"/></p>
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50"/></p>
@@ -80,16 +81,20 @@ GCI Summer 2025プログラムにて、タイタニック号の乗客データ�
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="50"/></p>
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="50"/></p>
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="50"/></p>
+</p>
 
 ### 🗄️ データベース
 
+<p align="center">
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="50"/></p>
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" width="50"/></p>
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50"/></p>
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg" width="50"/></p>
+</p>
 
 ### 🛠️ 開発環境・ツール
 
+<p align="center">
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50"/></p>
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50"/></p>
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" width="50"/></p>
@@ -97,6 +102,7 @@ GCI Summer 2025プログラムにて、タイタニック号の乗客データ�
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" width="50"/></p>
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="50"/></p>
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="50"/></p>
+</p>
 
 ## 今後の目標
 
