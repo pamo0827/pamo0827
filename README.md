@@ -16,7 +16,7 @@
 - 2025.08｜SecCamp2025 全国大会 参加予定
 ---
 
-## 💻 プロジェクト
+## プロジェクト
 
 ### 🏆 AIdentity (AI人狼ゲーム) - チーム開発/ハッカソン
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity"> <img src="https://img.shields.io/badge/Gemini_API-8E7BFF?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini API">
@@ -66,7 +66,7 @@ GCI Summer 2025プログラムにて、タイタニック号の乗客データ�
     * 
 ---
 
-## 🛠️ スキル・使用環境
+## スキル・使用環境
 
 * **言語**: Python (最も得意), Ruby, JavaScript, HTML/CSS
 * **データベース**: MySQL, SQLite, MongoDB
@@ -74,15 +74,15 @@ GCI Summer 2025プログラムにて、タイタニック号の乗客データ�
 
 ---
 
-## 🚀 今後の目標
+## 今後の目標
 
-* ✅ 長期インターンでの実務経験を積む
-* ✅ AtCoder 緑レベル突破　　
-* ✅ 応用情報技術者試験に合格 (2025年10月)
+*  長期インターンでの実務経験を積む
+*  AtCoder 緑レベル突破　　
+*  応用情報技術者試験に合格 (2025年10月)
 
 ---
 
-## 🧢 興味・趣味
+## 興味・趣味
 
 * **事業領域**: Web系事業会社, SIer・ソフト開発, NIer・インフラ
 * **趣味**:
@@ -92,7 +92,7 @@ GCI Summer 2025プログラムにて、タイタニック号の乗客データ�
 
 ---
 
-## 🔗 連絡先・アカウント (Contact)
+## 連絡先・アカウント (Contact)
 
 * **Gmail**: yoshi0827101328@gmail.com
 * **Twitter**: https://x.com/shiro3504
