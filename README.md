@@ -65,16 +65,42 @@ GCI Summer 2025プログラムにて、タイタニック号の乗客データ�
     * **モデル構築**: 決定木モデルを構築し、精度や再現率を用いて評価。
     * **予測**: 未知のテストデータに対する生存/死亡予測。
 
----
+## 💻 スキル・使用環境（ロゴ付き）
 
-## スキル・使用環境
+### 📝 言語
 
-* **言語**: Python (最も得意), Ruby, JavaScript, HTML/CSS
-* **データベース**: MySQL, SQLite, MongoDB
-* **環境**: VSCode, GitHub, WSL, Ubuntu, Unity, Figma, Canva
+| 言語        | ロゴ                                                                 |
+|-------------|----------------------------------------------------------------------|
+| Python      | ![Python](https://www.python.org/static/community_logos/python-logo.png) |
+| Ruby        | ![Ruby](https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg) |
+| JavaScript  | ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png) |
+| TypeScript  | ![TypeScript](https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg) |
+| Go          | ![Go](https://golang.org/lib/godoc/images/go-logo-blue.svg)         |
+| HTML/CSS    | ![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg) ![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg) |
+| C           | ![C](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png) |
+| C++         | ![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg) |
+| C#          | ![C#](https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png) |
+| R           | ![R](https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg) |
 
----
+### 🗄️ データベース
 
+| データベース | ロゴ                                                                 |
+|--------------|----------------------------------------------------------------------|
+| MySQL        | ![MySQL](https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg) |
+| SQLite       | ![SQLite](https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg) |
+| PostgreSQL   | ![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg) |
+| MongoDB      | ![MongoDB](https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg) |
+
+### 🛠️ 開発環境・ツール
+
+| ツール       | ロゴ                                                                 |
+|--------------|----------------------------------------------------------------------|
+| VSCode       | ![VSCode](https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg) |
+| GitHub       | ![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg) |
+| WSL / Ubuntu | ![WSL](https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg) ![Ubuntu](https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg) |
+| Unity        | ![Unity](https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg) |
+| Figma        | ![Figma](https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg) |
+| Canva        | ![Canva](https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg) |
 ## 今後の目標
 
 *  長期インターンでの実務経験を積む
