@@ -101,7 +101,7 @@ GCI Summer 2025プログラムにて、タイタニック号の乗客データ�
 <align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" height="50"/>
 <align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" height="50"/>
 <align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="50"/>
-<align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Canva_Logo.svg" height="50"/>
+<align="center"><img src="https://seeklogo.com/images/C/canva-logo-5E741DF5EC-seeklogo.com.png" height="50"/>
 </p>
 ## 今後の目標
 
