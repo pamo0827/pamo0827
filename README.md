@@ -74,7 +74,7 @@ GCI Summer 2025プログラムにて、タイタニック号の乗客データ�
 <align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="50"/>
 <align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50"/>
 <align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50"/>
-<align="center"><img src="https://golang.org/lib/godoc/images/go-logo-blue.svg" width="50"/></p>
+<align="center"><img src="https://golang.org/lib/godoc/images/go-logo-blue.svg" width="50"/>
 <align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50"/>
 <align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50"/>
 <align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="50"/>
