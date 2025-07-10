@@ -20,17 +20,15 @@
 ## プロジェクト
 
 ### 🏆 AIdentity (AI人狼ゲーム) - チーム開発/ハッカソン
+**[GitHubリポジトリ](https://github.com/KenshinKaraage/hackathon0607)**
+
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity"> <img src="https://img.shields.io/badge/Gemini_API-8E7BFF?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini API">
 
-会話の中に潜むAIプレイヤーを、人間が見つけ出すオンラインマルチ推理ゲーム。
-
-* **概要**
-    * Gemini APIを活用し、AIに個性的なペルソナ（性格・会話スタイル）を付与。
-    * Photon Unity Networking (PUN) を利用したリアルタイム通信対戦機能を実装。
-* **役割**
-    * フロントエンド開発、発表当日のプレゼンテーションを担当。
+会話の中に潜むAIプレイヤーを、人間が見つけ出すオンラインマルチ推理ゲーム。Figmaを用いたフロントエンド構成や要件定義を担当。
 
 ### 🎵 SMIPE (音楽共有SNS) - グループ開発【開発中】
+**[GitHubリポジトリ](https://github.com/GYact/SMIPE)**
+
 <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"> <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="OpenStreetMap">
 
 位置情報を活用した音楽共有プラットフォーム。近くにいる他のユーザーのプレイリストを発見・視聴できる。
@@ -48,6 +46,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
 
 タイタニック号の乗客データセットを用いた生存予測モデルを構築。
+
 ---
    
 ## 使用環境
