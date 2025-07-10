@@ -59,6 +59,8 @@
     * iCal (.ics) / PDF形式でのエクスポート
 
 ### 🤖 機械学習モデル - 個人開発
+**[GitHubリポジトリ](https://github.com/pamo0827/titanic-survival-prediction)**
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
 
 タイタニック号の乗客データセットを用いた生存予測モデルを構築。
