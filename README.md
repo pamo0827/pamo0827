@@ -35,16 +35,6 @@
 
 位置情報を活用した音楽共有プラットフォーム。近くにいる他のユーザーのプレイリストを発見・視聴できる。
 
-* **主な実装機能**:
-    * **認証**
-       * RailsにOAuth 2.0認証 (Spotify連携) を実装。
-    * **音楽再生**
-       *  Spotify Web Playback SDKを利用したブラウザでの音楽再生。
-    * **地図表示**
-       * OpenStreetMap APIとGeolocation APIを利用した地図表示。
-    * **UI**
-       * Swiper.jsを利用したスワイプ可能なUI。
-
 ### 📅 Shif-Post (月次シフト提出Webアプリ) - 個人開発
 **[GitHubリポジトリ](https://github.com/pamo0827/shift-calendar-app) | [デプロイ先](https://vercel.com/yoshi0827101328-9306s-projects/v0-shift-calendar-app)**
 
@@ -52,24 +42,12 @@
 
 アルバイト・スタッフ向けの勤務希望シフト提出Webアプリケーション。カレンダーUIで直感的に操作でき、PDFやiCal形式でのエクスポートも可能。
 
-* **主な機能**
-    * カレンダーUIでのシフト登録・編集・削除
-    * 曜日・時間帯の一括登録による効率化
-    * 時給設定と月収見込みの自動計算
-    * iCal (.ics) / PDF形式でのエクスポート
-
 ### 🤖 機械学習モデル - 個人開発
 **[GitHubリポジトリ](https://github.com/pamo0827/titanic-survival-prediction)**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
 
 タイタニック号の乗客データセットを用いた生存予測モデルを構築。
-
-* **主な実装内容**
-    * **分析プロセス**： 探索的データ分析 (EDA)、データの前処理、特徴量エンジニアリング。
-    * **モデル構築**： 決定木モデルを構築し、精度や再現率を用いて評価。
-    * **予測**： 未知のテストデータに対する生存/死亡予測。
-
 ---
    
 ## 使用環境
