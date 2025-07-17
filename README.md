@@ -18,7 +18,7 @@
 ## 使用環境
 
 ### 言語
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,go,js,ts,py,r,ruby,sklearn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,go,js,ts,py,ruby)](https://skillicons.dev)
 ### データベース
 [![My Skills](https://skillicons.dev/icons?i=dynamodb,mongo,mysql,postgres,redis,sqlite)](https://skillicons.dev)
 ### 開発環境・ツール
