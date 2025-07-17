@@ -18,22 +18,6 @@
 
 ---
 
-## プロジェクト
-
-### [AIdentity - AI人狼ゲーム](https://github.com/KenshinKaraage/hackathon0607)
-会話の中に紛れたAIを見破るマルチプレイ推理ゲーム。Figmaを用いたUI設計・要件定義を担当。
-
-### [SMIPE - 音楽共有SNS（開発中）](https://github.com/GYact/SMIPE)
-位置情報を活用して、近くのユーザーのSpotifyプレイリストを発見・視聴できるWebアプリ。
-
-### [Shif-Post - シフト提出Webアプリ](https://github.com/pamo0827/shift-calendar-app)
-カレンダー形式で直感的に勤務希望を入力できるアプリ。PDFやiCal形式での出力も可能。  
-
-### [タイタニック生存予測 - 機械学習モデル](https://github.com/pamo0827/titanic-survival-prediction)
-タイタニック号の乗客データをもとに、scikit-learnを用いて生存確率を予測。
-
----
-
 ## 使用環境
 
 ### 言語
@@ -71,14 +55,6 @@
 <align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" height="50"/>
 <align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="50"/>
 </p>
-
----
-   
-## 今後の目標
-
-*  長期インターンでの実務経験を積む
-*  AtCoder 緑レベル突破　　
-*  応用情報技術者試験に合格 (2025年10月)
 
 ---
 
