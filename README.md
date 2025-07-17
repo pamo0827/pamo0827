@@ -4,7 +4,7 @@
   <a href="https://github.com/pamo0827">
     <img src="https://github-readme-stats.vercel.app/api?username=pamo0827&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="pamo0827's GitHub stats" />
   </a>
-  <a href="https://open.spotify.com/user/pamo0827">
+  <a href="https://open.spotify.com/user/316ghnc2btt5hdseemtji6ntjeu4">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=pamo0827&cover_image=true&theme=default" alt="Spotify Now Playing" />
   </a>
 </p>
