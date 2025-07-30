@@ -32,12 +32,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pamo0827&theme=radical" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamo0827&theme=radical&hide_border=true" />
-</p>
-
-
----
