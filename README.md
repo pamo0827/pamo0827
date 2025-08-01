@@ -9,6 +9,7 @@
 
 ## 資格
 - 2024.11｜基本情報技術者試験 合格
+- 2025.08｜AWS Certified Cloud Practitioner 合格
 
 ## 実績
 - 2025.06｜技育CAMP2025ハッカソンVol.4  「努力賞」受賞
